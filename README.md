@@ -1,4 +1,4 @@
-# Submission bookshelf API Dicoding
+# Bookshelf-API Documentation
 Daftar API Bookshelf API
 Terdapat 5 api yang dapat diakses pada bookshelf-api.
 
